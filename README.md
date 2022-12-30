@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ashanvi Yadav</h1>
-<h3 align="center">A passionate developer and designer.</h3>
+<h1 align="center">Hi, I'm Ashanvi Yadav</h1>
+<h3 align="center">A passionate developer and a designer.</h3>
 
 ![Development and Design](https://media.licdn.com/dms/image/D4D16AQED0OsPTTSIHw/profile-displaybackgroundimage-shrink_350_1400/0/1672313523544?e=1677715200&v=beta&t=hipeenHg91X8id3ZV38Bbi02fOPeDfRi8fOqHnm8r70)
 
