@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashanvi Yadav</h1>
 <h3 align="center">A passionate developer and designer.</h3>
 
-![Development and Design](https://mir-s3-cdn-cf.behance.net/ae3ffdff1ff32143c077cca640b27215/2c2a78d4-3e59-4f7a-aa94-733c7d202b13_rwc_-4x1220x5093x891x5093.jpeg?h=a9f8c3b12e9e24734e9f5358bae9300b)
+![Development and Design](https://media.licdn.com/dms/image/D4D16AQED0OsPTTSIHw/profile-displaybackgroundimage-shrink_350_1400/0/1672313523544?e=1677715200&v=beta&t=hipeenHg91X8id3ZV38Bbi02fOPeDfRi8fOqHnm8r70)
 
 
 
