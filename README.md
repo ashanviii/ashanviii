@@ -42,7 +42,7 @@ I am a developer, and I enjoy building and creating functional and efficient sof
 
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashanvi&show_icons=true&theme=tokyonight)
+<!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashanvi&show_icons=true&theme=tokyonight)
 
 
 
