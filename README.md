@@ -7,11 +7,11 @@ Hi, I'm Ashanvi and I am a developer. I enjoy building and creating functional a
 
 Skills: Java / Python / REACT / JS / HTML / CSS / Figma / Mysql / Php
 
-- 🔭 I’m currently working on this page. 
 
 
 
 
-, you can check out my work on https://www.behance.net/ashanvi
+
+ You can check out my work on https://www.behance.net/ashanvi
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashanvi&show_icons=true&theme=tokyonight)
