@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Ashanvi Yadav</h1>
 <h3 align="center">A passionate developer and a designer.</h3>
 
-![Development and Design]
 
 
 
