@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Ashanvi</h1>
+<h1>Hi 👋, I'm Ashanvi I bring my designs to life through code.</h1>
 
 # 💫 About Me:
-🌐 Current Focus: Strengthening skills in Problem Solving<br>💼 Founder of Fynelx — my own product design and tech agency<br>🎨 Hobbies: Creating digital art and aesthetic designs 
+💼 Founder of Fynelx — my own product design and tech agency<br>🎨 I like creating digital art and aesthetic designs 
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/ashanviyadav" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
