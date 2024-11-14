@@ -1,6 +1,7 @@
-<h1>Hi 👋, I'm Ashanvi I bring my designs to life through code.</h1>
+<h1>Hi 👋, I'm Ashanvi 
+I bring my designs to life through code.</h1>
 
-#<h2>💫 About Me:</h2>
+<h2>💫 About Me:</h2>
 💼 Founder of Fynelx — my own product design and tech agency<br>🎨 I like creating digital art and aesthetic designs 
 
 <h2>⚡️ Where to find me</h2>
