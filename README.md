@@ -1,10 +1,20 @@
 <h1>Hi 👋, I'm Ashanvi </h1>
 <h3>I bring my designs to life through code.</h3>
 
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ashanviii/ashanviii/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashanviii&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=ashanviii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 <h2>💫 About Me:</h2>
 💼 Founder of Fynelx — my own product design and tech agency<br>🎨 I like creating digital art and aesthetic designs 
 
