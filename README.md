@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Ashanvi </h1>
 <h3>I bring my designs to life through code.</h3>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ashanviii/ashanviii/output/snake.svg" alt="Snake animation" />
